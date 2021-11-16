@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Adil.
+- 👀 I’m a beginner gamedev.
+- 🌱 I’m currently using buildbox game engine.
