@@ -1,3 +1,4 @@
-- 👋 Hi, I’m Adil.
-- 👀 I’m a beginner gamedev.
-- 🌱 I’m currently using buildbox game engine.
+Hi i m TheNoobDev.
+I create games using unity game engine. (Still Learning)
+Follow my itch:
+https://thenoobd.itch.io/
