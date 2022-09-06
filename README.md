@@ -1,16 +1,11 @@
-Assalam U Alaikum!
-Welcome here!
+# --- About Me --- #
+Hi, I am a game developer, sound engineer and a composer.
+I have been developing games for the past 6 months and have been composing music for the past 8 months.
+I make sound effects for video games. I love to use Audacity for all my sound work, and I have been using it for about a year now.
 
-My name is Adil and i am a beginner game developer and a sound engineer. I make games in unity, godot and buildbox and music for my games in fl Studio.
-I also make sfx using audacity and my crappy microphone and my sneaky little voice....!
+Follow me on all my social media platforms to stay up to date.
 
+# --- My Socials --- #
 My Itch: https://its-adil.itch.io/
 
-Youtube (Nothing there! Just loneliness): https://www.youtube.com/channel/UCwmX4HYI0wx8pKCBiyeaH0Q
-
-Discord (DED): https://discord.gg/9T4Srbdqh3
-
-Aur kya???
-bas!!!!
-Chalo shaba kato!
-
+Discord (DED): https://discord.gg/GbAxe7NVWg
