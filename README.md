@@ -8,4 +8,4 @@ Follow me on all my social media platforms to stay up to date.
 # --- My Socials --- #
 My Itch: https://its-adil.itch.io/
 
-Discord (DED): https://discord.gg/GbAxe7NVWg
+Discord: https://discord.gg/GbAxe7NVWg
