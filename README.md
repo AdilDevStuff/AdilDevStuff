@@ -16,7 +16,10 @@ I am an `Indie Game Developer` using **Godot Engine** and a `Sound Designer` mak
 
 ---
 
-# 🧰 Tools & Languages
+### Connect With Me
+
+
+### 🧰 Tools & Languages
 
 <img title="Godot Engine" align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg"/>
 <img title="VS Code" align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
@@ -27,3 +30,6 @@ I am an `Indie Game Developer` using **Godot Engine** and a `Sound Designer` mak
 <img title="CSS" align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
 <img title="Javascript" align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
 <img title="Python" align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+<br>
+
+# 
