@@ -16,9 +16,6 @@ I am an `Indie Game Developer` using **Godot Engine** and a `Sound Designer` mak
 
 ---
 
-### Connect With Me
-
-
 ### 🧰 Tools & Languages
 
 <img title="Godot Engine" align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg"/>
