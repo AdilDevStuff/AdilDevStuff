@@ -1,7 +1,7 @@
 # Adil Shafiq
 `Indie Game Developer - Sound Designer`
 
-I am an `Indie Game Developer` using **Godot Engine** and a `Sound Designer` making games and their sounds for the last 3 or 4 years. I have used a bunch of game engines previously but when Godot caught my attention, it became my first and only love to make games. I m also actively working on my first commercial steam game called `The Void Project` with a friend of mine using one and only, Godot Engine. Apart from my game dev hobby, I also make [Youtube Videos](https://www.youtube.com/@theyellowdude69). Specifically game devlogs and I have been doing so for 1 year.
+I am an `Indie Game Developer` using **Godot Engine** and a `Sound Designer` making games and their sounds for the last 3 or 4 years. I have used a bunch of game engines previously but when Godot caught my attention, it became my first and only love to make games. I have also made my 1st commercial steam game called [The Void Project](https://store.steampowered.com/app/2681270/The_Void_Project/) with a friend of mine using one and only, Godot Engine. and am actively working on my 2nd one. Apart from my game dev hobby, I also make [Youtube Videos](https://www.youtube.com/@theyellowdude69). Specifically game devlogs and I have been doing so for 1 year.
 
 
 <p align="left">
